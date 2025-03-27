@@ -8,6 +8,8 @@ $${\color{#FFA500}E14 \space \color{Gold}S25 \space \color{#4682B4}A10 }$$
 
 ## Cíl
 -   Studenti rozliší pojmy Safety a Security
+      -Sefety= ochrana před úrazem nebo úmrtím člověka (sekundárně záchrana zvířat)
+      -Security= 
 -   Doplní a především propojí si dosavadní znalosti z této problematiky
 -   A na příkladech vysvětlí řešení některý z častých problémů
 -   Dále popíší příklady diagnostických prostředků z oblasti HW
